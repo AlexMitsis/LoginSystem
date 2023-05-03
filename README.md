@@ -35,7 +35,7 @@ The system consists of two main components: a login form and a registration form
 **styles.css**: A simple stylesheet for the forms
 
 ## Future improvements
-Secure against SQL injection attacks
-Implement a password strength checker
-Add option to login with Google
-Make the usernames case-sensitive
+- Secure against SQL injection attacks
+- Implement a password strength checker
+- Add option to login with Google
+- Make the usernames case-sensitive
