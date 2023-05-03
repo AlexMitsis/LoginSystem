@@ -1,7 +1,6 @@
-# LoginSystem
-User Authentication System
-#Login System
+# User Authentication System
 This is a basic user authentication system implemented in PHP and MySQL. 
+
 The system consists of two main components: a login form and a registration form.
 
 ## Features
