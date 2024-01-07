@@ -1,15 +1,21 @@
 # User Authentication System
-This is a basic user authentication system implemented in PHP and MySQL. 
+This is a secure user authentication system implemented in PHP and MySQL. 
 
 The system consists of two main components: a login form and a registration form.
+
+![Image Alt text](/images/1.png "Login page")
+![Image Alt text](/images/2.png "Register page")
+![Image Alt text](/images/3.png "Register page")
+![Image Alt text](/images/4.png "Welcome page")
+
 
 ## Features
 - User registration with username and password
 - Passwords are stored in the database using Argon2id algorithm
 - User login with username and password
 - Session management to keep users logged in across pages
-- Basic client-side form validation with HTML5
-- Basic server-side form validation with PHP
+- Client-side form validation with HTML5
+- Server-side form validation with PHP
 - Error messages are displayed to the user when needed
 
 ## Requirements
